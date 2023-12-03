@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Hedvig+Letters+Sans&display=swap');
+
+.navbar {
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    font-family: 'Hedvig Letters Sans', sans-serif;
+    background-color: white;
+}
+
+.icon-title {
+    font-weight: 900;
+    color: #ad972b !important;
+}
+
+h3 {
+    font-weight: 900;
+}
